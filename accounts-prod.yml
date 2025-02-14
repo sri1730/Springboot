@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Zeroday accounts related Prod APIs "
+  contactDetails:
+    name: "Srivardhan - Product Owner"
+    email: "srivardhan@zeroday.com"
+  onCallSupport:
+    - 1234567890
+    - 0987654321

@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Zeroday accounts related QA APIs "
+  contactDetails:
+    name: "Sivaram - QA"
+    email: "sivarama@zeroday.com"
+  onCallSupport:
+    - 5678901234
+    - 4567890321
