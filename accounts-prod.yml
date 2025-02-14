@@ -6,7 +6,7 @@ build:
 accounts:
   message: "Welcome to Zeroday accounts related Prod APIs "
   contactDetails:
-    name: "Siva - Product Owner"
+    name: "HARI - Product Owner"
     email: "srivardhan@zeroday.com"
   onCallSupport:
     - 1234567890
