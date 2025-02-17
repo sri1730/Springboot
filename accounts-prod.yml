@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Zeroday accounts related Prod APIs "
+  message: "Welcome to Zeroday accounts related Production APIs "
   contactDetails:
     name: "HARI - Product Owner"
     email: "{cipher}1e62dc30e444ea961889cdbabedad1ade32c3586dbe3bb81176a0527f5b9f729d9bd839b4c50f2f1795dbf73c4e88f40"
