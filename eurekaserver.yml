@@ -3,11 +3,10 @@ server:
 
 eureka:
   instance:
-    hostname: srieurekaserver # Use container name
+    hostname: localhost
   client:
     fetchRegistry: false
     registerWithEureka: false
     serviceUrl:
-      defaultZone: http://srieurekaserver:8070/eureka/
-
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
     
