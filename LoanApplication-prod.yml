@@ -3,9 +3,9 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Zeroday loanaccounts related Prod APIs "
+  message: "Welcome to Zeroday loanaccounts related Produc APIs "
   contactDetails:
-    name: "Srivardhan - Product Owner"
+    name: "Siva - Product Owner"
     email: "srivardhan@zeroday.com"
   onCallSupport:
     - 1234567890
